@@ -17,5 +17,5 @@ wicd
 
 design notes
 -----
-A pi 3 would be an obvious better fit here but I used what I had.  Using a 4 inch SPI screen instead would free up the HDMI port which would be freeing if this were used as a primary device or it could be used as a mobile video, audio, web or presentation device.
+A pi 3 would be an obvious better fit here but I used what I had.  Using a 4 inch SPI screen instead would free up the HDMI port which would be useful if this were used as a primary device or it could be used as a mobile video, audio, web or presentation device.
 
