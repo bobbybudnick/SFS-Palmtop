@@ -27,5 +27,10 @@ A pi 3 would be an obvious better fit here but I used what I had.  Using a 4 inc
 
 ![](https://github.com/bobbybudnick/SFS-Palmtop/blob/master/WIN_20171031_183830.JPG)
 
+3d files
+-----
+https://github.com/bobbybudnick/SFS-Palmtop/blob/master/SFS-Palmtop-Leg-10.stl  
+https://github.com/bobbybudnick/SFS-Palmtop/blob/master/SFS-Palmtop-Support-7.stl
+
 ![](https://github.com/bobbybudnick/SFS-Palmtop/blob/master/WIN_20171031_182702.JPG)
 
