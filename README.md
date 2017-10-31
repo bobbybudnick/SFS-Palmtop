@@ -11,7 +11,7 @@ wide and thin bluetooth keyboard
 3d printed extension to house amplifier/power supply/battery with hole for speaker  
 3d printed foot that allows the device to tilt back like a laptop
 
-![](https://github.com/bobbybudnick/SFS-Palmtop/blob/master/WIN_20171031_182148.JPG)
+![](https://github.com/bobbybudnick/SFS-Palmtop/blob/master/WIN_20171031_190759.JPG)
 
 software
 -----
