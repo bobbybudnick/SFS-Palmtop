@@ -1,0 +1,22 @@
+[1]
+Description=Application settings for\s
+clientmachine=localhost
+clientmachinematch=0
+noborder=true
+noborderrule=2
+position=0,270
+positionrule=2
+wmclass=
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=(Default) Disable focus stealing prevention for XV
+fsplevel=0
+fsplevelrule=2
+wmclass=^xv .*
+wmclasscomplete=true
+wmclassmatch=3
+
+[General]
+count=2

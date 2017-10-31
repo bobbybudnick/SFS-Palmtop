@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#simple script to set up palmtop
+
+xset -dpms
+
+/home/pi/BLUETOOTH_DAEMON&
+
+/home/pi/easystroke-0.5.6/easystroke&
+
+sudo sh -c "echo 'ondemand' >> /sys/devices/system/cpu/cpufreq/policy0/scaling_governor"
+
