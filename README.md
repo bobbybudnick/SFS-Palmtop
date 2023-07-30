@@ -1,3 +1,5 @@
+edit: Archiving this as thankfully x86 devices have gotten cheap enough to not have to cobble together any alternative devices for now.
+
 # SFS-Palmtop
 
 ![](https://github.com/bobbybudnick/SFS-Palmtop/blob/master/WIN_20171031_182310.JPG)
